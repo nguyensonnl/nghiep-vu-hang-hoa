@@ -108,7 +108,9 @@
   | PER | Hàng dễ hư hỏng(Nói chung) |
   | PES | Cá, hải sản tươi |
   | PIL | Dược phẩm cần kiểm soát nhiệt độ |
+
   **Yêu cầu phục vụ:**
+
 - Quá trình chất xếp lưu kho hàng dễ hư hỏng cần tham chiếu bảng chỉ dất chất xếp cách ly
 - Kho hàng phải được dán nhãn "Perishable", "Keep temperature", "Fragile", "This Way Up"
 - Trường hợp phải chất xếp các kiện hàng chồng lên nhau, phải đảm bảo các kiện hàng bên dưới không bị hư hại
