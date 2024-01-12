@@ -1,0 +1,52 @@
+1. Tàu bay
+1.1. Cấu trúc tàu bay
+- Các thành phần tiêu biểu của một tàu bay hiện đại được thể hiện ở hình dưới:
+
+1.2 Phân loại tàu bay:
+1.2.1. Phân loại theo kích thước tàu bay
+a) Tàu bay thân hẹp(Conventional/Narrow-Body Aircraft)
+- Là dòng tàu bay có bề rộng trong khoang chứa hành khách khoảng 3-4m(10-13fit), và chỉ có một lối đi giữa 2 hàng ghế hành khách
+- Thông thường, hầm hàng cùa tàu bay thân hẹp chỉ có thể chứa hàng rời(hàng xá, hàng bulk)
+- Một số dòng tàu bay thân hẹp:
++Airbus Industries: A318, A319, A320, A321
++Boeing: B727, B737, B757
++Fokker: F100
++Boeing(Douglas): DC-9, MD-80 series, MD-90
++Antonov: AN-74, AN-148
+
+b) Tàu bay thân rộng
+
+1.2.2. Phân loại theo mục đích sử dụng tàu bay
+- Tàu bay thân hẹp và tàu bay thân rộng có thể phân loại chi tiết thành các loại tàu bay sau:
++ Tàu bay chở hàng(Cargo/Freighter aircraft): vận chuyển hàng hóa và bưu kiện trên cả sàn chính và sàn dưới
++ Tàu bay chở khách(Passenger aircraft): vận chuyển hành khách ở sàn chính, sàn dưới được sử dụng để vận chuyển hành lý, hàng hóa, và bưu kiện
++ Tàu bay chở khách và hàng(Mixed passenger/freighter aircraft - Combi): sàn chính vận chuyển cả hàng khách và hàng hóa, thường được ngăn cách bằng vách ngăn tam. Sàn dưới vận chuyển hàng hóa và bưu kiện
+
+1.3. Áp suất và nhiệt độ
+
+1.4. Trọng tải tính cước - Payload/ Traffic Load
+1.4.1.
+1.4.2.
+1.4.3.
+
+1.5 Cách bố trí trên tàu bay
+1.5.1. Sàn chính và sàn dưới
+
+a) Sàn chính(main deck)
+- Đối với tàu bay chở khách: sàn chính chở hành khách
+- Đối với tàu bay chở hàng: sàn chính chở hàng hóa
+- Đối với tàu bay combi: sàn chính vừa chở hành khách vừa chở hàng hóa
+
+b) Sàn dưới(lower deck)
+
+1.5.2. Hầm và khoang
+a) Hầm(Holds)
+- Hầm trước(Forward hold - FWD) và hầm sau(aft cargo hold - AFT) nằm ở sàn dưới của tàu bay. Các hầm này được chia nhỏ thành các khoang(Compartments)
+
+b) Khoang(Compartments)
+- Đối với tàu bay thân hẹp: Các khoang sàn dưới cũng được gọi là khoang chất xã
+- Đối với tàu bay thân rông: Các khoang hàng được trang bị để chuyển chở hàng hóa được chất xếp trong mâm/thùng. Ngoài ra, nó cũng có khoang chất xá
+
+1.5.3. Một số loại tàu bay thường gặp
+a) Airbus A321
+

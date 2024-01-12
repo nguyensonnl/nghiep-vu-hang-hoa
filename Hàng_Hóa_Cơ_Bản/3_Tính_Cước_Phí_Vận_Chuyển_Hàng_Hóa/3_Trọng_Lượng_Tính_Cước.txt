@@ -1,0 +1,4 @@
+Trọng lượng tính cước có thể là trọng lượng thực hay trọng lượng tính theo thể tích của lô hàng
+Sử dụng trọng lượng nào cao hơn đảm bảo rằng khi mà có
+mức cước thấp hơn tính cho mức trọng lượng tối thiểu cao hơn,
+thì mức trọng lượng tối thiểu cao hơn được sử dụng là trọng lượng tính cước

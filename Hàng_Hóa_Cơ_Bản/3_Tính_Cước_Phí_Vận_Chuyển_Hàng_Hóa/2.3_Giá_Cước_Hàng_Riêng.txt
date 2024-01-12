@@ -1,0 +1,5 @@
+Giá SCR thường thấp hơn giá GRC và được công bố áp dụng đối với các chủng loại hàng cụ thể
+được xác định trên một chặng bay nhất định.
+
+Giá SCR còn tùy thuộc vào trọng lượng tối thiểu,
+các điều kiện liên quan đến cước phí tối thiểu và trọng lượng riêng cảu hàng hóa

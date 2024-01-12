@@ -1,0 +1,21 @@
+1 Tổng quan
+- Giá cước(Rate) là số tiền được hãng vận chuyển tính trên một đơn vị trong lượng hàng hóa ( kg hoặc lb)
+- Giá cước áp dụng là giá cước được công bố đang có hiệu lực vào ngày hãng vận chuyển hoặc đại lý của hãng vận chuyển xuất AWB. (Đối với lô hàng trả cước/phí sau, tham khảo TACT RULES mục 5.4.1, đoạn 3)
+- Phí(Charge) là số tiền phải trả cho việc vận chuyển lô hàng hoặc cho các dịch vụ phụ có liên quan đến lô hàng. Phí phụ thuộc vào giá trị khai báo vận chuyển của người gửi hàng và trọng lượng/ thể tích lô hàng
+
+2. Các loại giá cước phổ biến và ưu tiên áp dụng
+2.1. Cước phí tối thiểu (Minimum Charges - M)
+- Cước phí tối thiểu là mức cước thất nhất có thể áp dụng, ký hiệu là M
+- Cước phí tối thiểu áp dụng cho lô hàng được công bố trong tài liệu TACT RULES mục 3.4, hoặc được tham chiếu trên bảng giá trong TACT RULES
+- Cước phí tối thiểu phải luôn được kiểm tra và có quyền ưu tiên cao nhất, không còn mức cước phí nào có thể thấp hơn M
+
+2.2. Giá cước thông thường (General Cargo Rates - GCR)
+- Giá cước hàng thông thường áp dụng cho các loại hàng hóa thông thường không thuộc nhóm giá theo phân loại mặt hàng (Class Rate)
+- Giá thông thường (Normal Rate) - Ký hiệu N: áp dụng cho lô hàng dưới 45kg hoặc dưới 100kg tùy thuộc từng quốc gia
+- Giá theo trọng lượng (Quantity Rate) - Ký hiệu Q: áp dụng đối với lô hàng trên 45kg hoặc trên 100kg. Các mức giá cước hàng thông thường thấp hơn còn được công bố áp dụng cho các định mức trong lượng lớn hơn của các lô hàng có khối lượng lớn hơn được vận chuyển giữa các khu vực trên thế giới. Các mức giá này tương ứng với các mức trọng lượng được công bố trong bảng giá
+
+2.3. Giá cước hàng riêng (Specific commodity rates - SCR)
+- Giá SCR thường thấp hơn giá GRC và được công bố áp dụng đối với các chủng loại hàng cụ thể được xác định trên một chặng bay nhất định. Giá SCR còn tùy thuộc vào trọng lượng tối thiểu, các điều kiện liên quan đến cước phí tối thiểu và trọng lượng riêng cảu hàng hóa
+
+3. Trọng lượng tính cước (Chargeable weight)
+- Trọng lượng tính cước có thể là trọng lượng thực hay trọng lượng tính theo thể tích của lô hàng. Sử dụng trọng lượng nào cao hơn đảm bảo rằng khi mà có mức cước thấp hơn tính cho mức trọng lượng tối thiểu cao hơn, thì mức trọng lượng tối thiểu cao hơn được sử dụng là trọng lượng tính cước

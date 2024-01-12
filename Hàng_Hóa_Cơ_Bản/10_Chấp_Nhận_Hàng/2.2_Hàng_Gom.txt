@@ -1,0 +1,6 @@
+- Hàng gom(consolidated shipment) là hàng hóa mà đại lý gom từ nhiều người gửi hàng khác nhau,
+có cùng một sân bay đích đến gửi đi trên cùng một không vận đơn, thành một lô hàng
+
+- Đại lý hàng hóa lập những vận đơn thứ cấp(House Waybill) cho từng Người gửi hàng riêng lẻ,
+để được hưởng hoa hồng đại lý và/ hoặc hưởng khoảng chêch lệch giữa giá cước áp dụng cho lô hàng
+có số lượng nhỏ với giá cước áp dụng cho những lô hàng có số lượng lớn

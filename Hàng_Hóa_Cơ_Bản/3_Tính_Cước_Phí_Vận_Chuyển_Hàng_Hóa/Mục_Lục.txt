@@ -1,0 +1,8 @@
+BÀI 3: TÍNH CƯỚC PHÍ VẬN CHUYỂN HÀNG HÓA
+
+1 Tổng quan
+2. Các loại giá cước phổ biến và ưu tiên áp dụng
+2.1. Cước phí tối thiểu (Minimum Charges - M)
+2.2. Giá cước thông thường (General Cargo Rates - GCR)
+2.3. Giá cước hàng riêng (Specific commodity rates - SCR)
+3. Trọng lượng tính cước (Chargeable weight)

@@ -1,0 +1,12 @@
+Giá cước hàng thông thường áp dụng cho các loại hàng hóa thông thường
+không thuộc nhóm giá theo phân loại mặt hàng (Class Rate)
+
+Giá thông thường (Normal Rate) - Ký hiệu N:
+áp dụng cho lô hàng dưới 45kg hoặc dưới 100kg tùy thuộc từng quốc gia
+
+Giá theo trọng lượng (Quantity Rate) - Ký hiệu Q:
+áp dụng đối với lô hàng trên 45kg hoặc trên 100kg
+Các mức giá cước hàng thông thường thấp hơn còn được công bố áp dụng cho
+các định mức trong lượng lớn hơn của các lô hàng có khối lượng lớn hơn
+được vận chuyển giữa các khu vực trên thế giới.
+Các mức giá này tương ứng với các mức trọng lượng được công bố trong bảng giá

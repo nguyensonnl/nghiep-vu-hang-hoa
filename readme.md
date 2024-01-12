@@ -1,0 +1,1 @@
+Nhân viên khai thác/ phục vụ hàng hóa

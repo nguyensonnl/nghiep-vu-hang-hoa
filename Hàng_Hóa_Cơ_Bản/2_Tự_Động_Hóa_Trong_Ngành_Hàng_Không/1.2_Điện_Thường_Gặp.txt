@@ -1,0 +1,35 @@
+1. FFM(Flight Manifest Message):
+Điện chi tiết về toàn bộ hàng hóa được chuyên chở trên chuyến bay
+nội dung tương tự như bảng lược khai của chuyến bay
+
+2. FAD(Advise of Discrepancy Message):
+Điện thông báo những bất thường tại sân bay đến
+
+3. FDA(Discrepancy Answer Message):
+Điện trả lời và đưa ra những hướng đẫn về các bất thường
+
+4. FRP(Irregularity Report Message): Điện báo cáo những bất thường
+
+5. CPM(Container and Pallet Message):
+Điện liệt kê tất cả ULD trên một chuyến bay kể cả ULD sử dụng chất hành lý và ULD rống
+Trên điện thể hiện vị trí của từng ULD khi chất xếp lên tàu bay
+
+6. UCM(ULD Control Message):
+Điện quản lý ULD xuất/nhập tại một trạm
+
+7. DLS(Dead load shear):
+Điện báo tải chuyển bay
+
+8. FWB(Airwaybill data message):
+Điện thông báo thông tin chi tiết của một không vận đơn
+
+9. FHL(Consoliation list message): Điện cung cấp danh sách House AWB thuộc một master AWB
+
+10. FSU(Status update Message):
+Điện cập nhật thông tin về tình trạng lộ hàng
+
+11. SCM(ULD stock control message):
+Điện thông báo ULD tồn
+
+12. UWS(ULD/Bulk Load Weight Signal):
+Điện về tải ULD?hàng rời trên chuyến bay

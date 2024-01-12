@@ -1,0 +1,24 @@
+SITA là một trong những mạng viên thông chuyên biệt lớn nhất thể giới về
+trao đổi thông tin trong ngành hàng không
+
+Các hãng hàng không là những nhà vận chuyển đầu tiên tìm kiếm những cơ hổi trao đổi thông tin hàng hóa
+theo một phương thức chuẩn hóa
+
+SITA được thành lập vào năm 1949 do 11 thành viên là
+các hãng hàng không(Air France, KLM, Sabena, TWA, Swissair, British Airways(sát nhập 3 hãng hàng không British)
+và SAS(sát nhập của 3 hãng Scandinavian))
+
+Mạng lưới SITA phục vụ  cho hơn 430 thành viên công ty và hoạt động trên 200 quốc gia
+Các thành viên SITA bao gồm các hãng hàng không, sân bay, công ty phục vụ mặt đất,
+và mạng lưới của SITA đã được kết nối đến 95% các nơi trên toàn thế giới
+
+Chi phí vận hành hệ thống SITA sẽ rất cao nếu không sử dụng các mã điện báo và ký tự viết tắt
+Vì lý do này, các hãng hàng không đã phát triển một loạt các loại điện báo tiêu chuẩn
+hoặc các mã Cargo Interchange Message Procedures(Cargo-IMP)
+
+Những mã này được chấp nhận như là một tiêu chuẩn của ngành hàng không về trao đổi dữ liệu giữa các hãng bay
+Cargo-IMP được sử dụng cho việc xác nhận tải, thông tin không vận đơn, chi tiết hàng hóa chuyến bay,
+tình trạng hàng hóa, các bất thường và những thông tin liên quan đến Hải quan
+
+Phiên bản thứ 34 (2014/2015) là phiên bản cuối của chuẩn Cargo-IMP
+tiêu chuẩn mới IATA Cargo-XML sẽ thay thế cho Cargo-IMP

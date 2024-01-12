@@ -1,0 +1,10 @@
+- b1: Hàng từ chuyến bay đến
+- b2: Bộ phận Sân đỗ tiếp nhận hàng và tài liệu
+- b3: Khu vực chờ chuyển tiếp
+- b4: Làm thủ tục chuyển tiếp đến(Về hàng không & hải quan)
+- b5:
++ Bộ phận hàng xuất quốc tế(Làm tài liệu chuyến bay, chất xếp lại nếu có yêu cầu)
++ Bộ phận hàng xuất quốc nội(Làm tài liệu chuyến bay, chất xếp lại nếu có yêu cầu)
+- b6: Làm thủ tục chuyển tiếp đi(Về hàng không và Hải quan)
+- b7: Bàn giao hàng hóa và tài liệu cho bộ phận RAMP
+- b8: Hàng hóa/ Tài liệu bàn giao cho cty PVMĐ/ máy bay

@@ -1,0 +1,5 @@
+- Hàng hóa được hiểu là bất cứ vật gì được vận chuyển trên máy bay
+trừ các tài sản khác được vận chuyển theo Liên minh Bưu chính thế giới,
+hành lý được vận chuyển theo vé hành khách và hành lý
+
+- Hành lý không đi theo người được vận chuyển theo AWB được xem là hàng hóa

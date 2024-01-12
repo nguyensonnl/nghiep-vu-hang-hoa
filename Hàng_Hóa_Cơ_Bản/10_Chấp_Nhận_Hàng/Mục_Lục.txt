@@ -1,0 +1,20 @@
+BÀI 10: CHẤP NHẬN HÀNG(TIẾP NHẬN HÀNG)
+1. Tổng quan
+1.1 Quá trình phục vụ hàng hóa/ULD xuất, nhập, chuyển tiếp tại SCSC
+1.1.1 Quá trình phục vụ tổng thể
+1.1.2 Quy trình phục vụ hàng nhập
+1.1.3 Quy trình phục vụ hàng xuất
+1.1.4 Quy trình phục vụ hàng chuyển tiếp
+
+2. Nhận dạng hàng hóa và bưu kiện
+2.1 Khái niệm về hàng hóa
+2.2 Khái niệm về gom hàng(consolidated shipment)
+
+3. Chấp nhận hàng
+3.1 Yêu cầu chung về chấp nhận hàng
+3.1.1 Chấp nhận hàng thông thường
+3.1.2 Các nguyên tắc chấp nhận hàng
+3.2 Chấp nhận hàng hóa tại SCSC thông qua tờ khai gửi hàng
+Shipper's Letter of Instruction(SLI) do SCSC phát hành
+3.3 Tờ khai xuất HAWB
+Shipper's Letter of Instruction for issuing air waybill

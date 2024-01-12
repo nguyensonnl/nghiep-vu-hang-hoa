@@ -1,0 +1,7 @@
+Giá cước(Rate) là số tiền được hãng vận chuyển tính trên một đơn vị trong lượng hàng hóa (kg hoặc lb)
+
+Giá cước áp dụng là giá cước được công bố đang có hiệu lực vào ngày hãng vận chuyển hoặc đại lý
+của hãng vận chuyển xuất AWB. (Đối với lô hàng trả cước/ phí sau, tham khảo TACT RULES mục 5.4.1, đoạn 3)
+
+Phí(Charge) là số tiền phải trả cho việc vận chuyển lô hàng hoặc cho các dịch vụ phụ có liên quan đến lô hàng
+Phí phụ thuộc vào giá trị khai báo vận chuyển của người gửi hàng và trọng lượng/ thể tích lô hàng

@@ -1,0 +1,7 @@
+Cước phí tối thiểu là mức cước thất nhất có thể áp dụng, ký hiệu là M
+
+Cước phí tối thiểu áp dụng cho lô hàng được công bố trong tài liệu TACT RULES mục 3.4
+hoặc được tham chiếu trên bảng giá trong TACT RULES
+
+Cước phí tối thiểu phải luôn được kiểm tra và có quyền ưu tiên cao nhất
+không còn mức cước phí nào có thể thấp hơn M

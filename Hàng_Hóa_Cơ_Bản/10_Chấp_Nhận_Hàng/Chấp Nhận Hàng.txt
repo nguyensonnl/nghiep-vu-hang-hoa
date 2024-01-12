@@ -1,0 +1,32 @@
+Bài 10: Tiếp nhận hàng / Chấp nhận hàng
+1. Tổng quan
+1.1. Quá trình phục vụ hàng hóa/ULD xuất, nhập, chuyển tiếp tại SCSC
+1.1.1. Quá trình phục vụ tổng thể
+1.1.2. Quy trình phục vụ hàng nhập
+1.1.3. Quy trình phục vụ hàng xuất
+1.1.4. Quy trình phục vụ hàng chuyển tiếp
+
+
+2. Nhận dạng hàng hóa và bưu kiện
+2.1. Khái niệm về hàng hóa
+2.2. Khái niệm về gom hàng(Consolidated shipment)
+2.3. Nhãn hàng hóa, bưu kiện
+2.3.1. Nhãn hàng hóa
+2.3.2. Nhãn bưu kiện
+2.4. Nhận biết nhãn MAWB và HAWB
+2.4.1. Nhãn MAWB
+2.4.2. Nhãn HAWB
+2.4.3. Nhãn kết hợp Master - House
+
+3. Chấp nhận hàng
+3.1. Yêu cầu chung về chấp nhận hàng
+3.1.2. Chấp nhận hàng thông thường
+3.1.3. Các nguyên tắc chấp nhận hàng
+3.2. Chấp nhận hàng hóa tại SCSC thông qua Tờ khai gửi hàng - Shipper's Letter of Instruction(SLI) do SCSC phát hành
+3.3. Tờ khai xuất MAWB -  Shipper's Letter of Instruction for issuing air waybill
+
+4. Hàng hóa đặc biệt và các yêu cầu phục vụ
+4.1. Hàng do đại lý/ người gửi chất xếp lên ULD(Bulk Unitization Program - BUP)
+
+
+
