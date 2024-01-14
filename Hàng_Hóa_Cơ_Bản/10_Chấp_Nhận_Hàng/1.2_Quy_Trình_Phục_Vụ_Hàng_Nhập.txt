@@ -1,9 +1,0 @@
-- b1: Hàng hóa/ULD từ chuyến bay đến
-- b2: Bộ phận sân đỗ tiếp nhận hàng/ULD và tài liệu
-- b3: Xử lý tài liệu - Dỡ hàng(Breakdown)
-- b4: Hoàn tất khai thác chuyến bay, lưu kho hàng hóa/ ULD
-- b5: Thông báo cho khách đến nhận hàng
-- b6: Khách hàng làm thủ tục nhận hàng
-- b7: Thủ tục hải quan
-- b8: Trả/phát hàng
-- b9: Khách hàng nhận

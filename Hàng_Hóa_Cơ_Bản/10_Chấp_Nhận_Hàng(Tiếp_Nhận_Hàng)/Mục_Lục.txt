@@ -1,4 +1,5 @@
-Bài 10: Tiếp nhận hàng / Chấp nhận hàng
+BÀI 10: CHẤP NHẬN HÀNG / TIẾP NHẬN HÀNG
+
 1. Tổng quan
 1.1. Quá trình phục vụ hàng hóa/ULD xuất, nhập, chuyển tiếp tại SCSC
 1.1.1. Quá trình phục vụ tổng thể

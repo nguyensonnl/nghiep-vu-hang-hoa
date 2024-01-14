@@ -1,5 +1,0 @@
-- Hàng thông thường là loại hàng hóa không có bất cứ yêu cầu phục vụ đặc biệt nào
-
-- Những loại hàng thông thường phổ biến bao gồm:
-Hàng may mặc, vải vóc, bao tay, giày dép,
-hàng kim loại(Không phải hàng nặng hoặc không chứa chất nguy hiểm), v.v
