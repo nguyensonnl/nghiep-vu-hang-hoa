@@ -127,6 +127,4 @@
   - Tham chiếu bảng chỉ dẫn chất xếp cách ly
   - Không để kiện hàng trức tiếp dưới ánh nắng trực tiếp dưới ánh nắng hoặc nhiệt độ cao
 
-```html
 <img src="./4.9.Hatching_eggs.PNG" alt="hatching egss" />
-```
