@@ -127,4 +127,77 @@
   - Tham chiếu bảng chỉ dẫn chất xếp cách ly
   - Không để kiện hàng trức tiếp dưới ánh nắng trực tiếp dưới ánh nắng hoặc nhiệt độ cao
 
-<img src="./4.9.Hatching_eggs.PNG" alt="hatching egss" />
+<img src="./images/4.9.Hatching_eggs.PNG" alt="hatching egss" />
+
+### 4.10 Động vật sống(Live Animals - AVI)
+
+- Việc vận chuyển động vật sống phải tuân thủ quy định vận chuyển động vật sống của IATA(IATA Live Animals Regulations)
+- Khi tiếp nhận động vật sống để vận chuyển phải sử dụng **Phiếu kiểm tra tiếp nhận động vật sống**(IATA Live Animals Acceptance Chekced)
+- Kiện hàng động vật sống thường được dán các nhãn **Live Animal**, **Keep temperature**, **This way up**, **Handling Instructions**, trong quá trình phục vụ phải tuân thủ các chỉ dẫn theo yêu cầu
+- **Yêu cầu phục vụ:**
+  - Quá trình chất xếp lưu kho động vật sống cần tham chiếu bảng chỉ dẫn chất xếp cách ly
+  - Động vật sống không được chất xếp vào thùng(container) kín, ngoại trừ cá và các loại sống trong môi trường nước
+  - Động vật sống phải được chất xếp giữ khoảng cách với các kiện hàng khác đảm bảo lưu thông dưỡng khí
+  - Thông tin về động vật sống trên NOTOC(Special Load - Notification to Captain) phải bao gồm các yêu cầu về kiểm soát nhiệt độ và điều kiện thông hơi trên hầm hàng
+  - Động vật sống cũng phải được phục vụ như hàng ướt(Wet Cargo). Bên dưới kiện hàng phải được lót tấm nylon và vật liệu thấm hút(như giấy thấm, mùn cửa,...) đảm bảo không để chất lỏng rò rỉ ra sàn ULD, sàn mâm hàng và gây hư hỏng các kiện hàng khác. Tránh sử dụng cỏ khô hoặc rơm làm vật liệu thấm hút do đặc điểm dễ bắt cháy và quy định kiểm dịch của một số quốc gia
+  - Những động vật đố kỵ nhau trong tự nhiên không được phép chất xếp cạnh nhau
+  - Chỉ cho thú ăn theo đúng yêu cầu và chỉ dẫn của người gửi hàng
+
+### 4.11 Hàng ướt(Wet Cargo - WET)
+
+- Các kiện hàng có chứa chất lỏng hoặc do bản chất sản sinh ra chất lỏng và không thuộc đối tượng trong Quy định về hàng nguy hiểm của IATA được xem là hàng ướt (Wet Cargo)
+- Ví dụ:
+  - Hàng hóa là chất lỏng được đóng bao bì trong các thùng kín nước
+  - Cá, hải sản, ướp đá, thịt tươi, thịt đông lạnh, da chưa thuộc...động vật sống
+- Nhằm bảo vệ sàn máy bay, sàn ULD không bị hư hỏng, phải sử dụng tấm nylon hoặc vải dầu trải lên bề mặt sàn máy báy, sàn ULD, các cạnh tấm nylon hoặc vải dầu phải tựa sát vào vách/ tường hầm hàng máy bay/ ULD tạo thành bể chứa chất lỏng rò rỉ, tràn đổ từ kiện hàng
+- Đối với các sản phẩm ướp muối(salied casings):
+  - Phải được đóng bao bì trong các hộp thiếc kín, chống rỏ rì, các hộp này được đăt trong túi nhựa và miệng túi được buộc chặt. Sau đó đặt vào các khay chứa, đáy khay phủ lớp giấy thấm khoảng 5 cm
+  - Luôn chất xếp theo đúng chiều mũi tên chỉ hướng, không để nghiêng
+  - Các khay và thùng chứa phải được neo giữ, rằng buộc cẩn thận, chắc chắn
+  - Áp dụng mọi biện pháp tránh rỏ rỉ, gây bẩn ra sản phẩm hàng máy bay
+
+### 4.12 Hàng nặng(Heavy Cargo - HEA)
+
+- Một kiện hàng có trọng lượng từ 150kg/330lb trở lên được xem là hàng nặng
+- <u> **Yêu cầu phục vụ:** </u>
+- Nên chất xếp hàng lên mâm, tránh phải chất xếp kiện hàng vào container LD3, đặc biệt đối với các container chuyên dụng RAP/RKN/HMA/HMU để không gây hư hỏng container, trừ khi có yêu cầu xác nhận từ Hãng vận chuyển
+- Kiện hàng cần được neo giữ riêng, trường hợp phải neo giữ chung với các kiện hàng khác phải tuân thủ theo yêu cầu, quy định của nhà vận chuyển
+- Kiện hàng nên được chất vào vị trí giữa ULD
+- Trường hợp kiện hàng được chất xêp trên khoang chất xá của máy bay(bulk compartment), phải chuẩn bị ván lót chia tải và dụng cụ neo giữ kiện hàng đúng theo quy định
+- Khi neo giữ kiện hàng, nên ràng dây lên bên ngoài bao bì kiện hàng, tránh ràng dây trực tiếp lên hàng hóa. Vì vậy, nếu bao bì bị hư hỏng hoặc không đủ bền vững chưa nội dung hàng hóa bên trong thì phải được sửa chưa hoặc thay thể trước khi tiếp nhận để chất xếp
+
+### 4.13 Hàng quá khổ, cồng kềnh(Bulky Cargo - BIG)
+
+- Hàng quá khổ là hàng khi chất xếp cần hơn một ULD, hơn một vị trí chất xếp trên máy bay, hay là hàng hóa cần phải phục vụ đặc biệt khi xếp và dỡ hàng do kích thước quá lớn. Khi chất xếp hàng quá khổ phải tuân thủ chỉ dẫn chất xếp của Hãng vận chuyển
+- Hàng quá khổ chỉ được phép vận tiếp nhận và gửi đi khi đã được giữ chỗ hay đã có phép của nhà vận chuyển
+
+### 4.14 Thiết bị, phụ từng máy bay(Aircraft On Ground - AOG)
+
+- Kiện hàng chứa thiết bị phụ tùng máy bay luôn được nhà vận chuyển ưu tiên chuyên chở nhằm phục vụ cho việc sửa chữa bảo trì máy bay đang bị hư hỏng kỹ thuật tại một sân bay nào đó
+- Trên kiện hàng được gắn nhãn AOG. Khi nhận chuyên chở kiện hàng AOG, nhà vận chuyển phải tuân thủ quy định vận chuyển hàng nguy hiểm của IATA
+
+### 4.15 Sản phẩm chăm sóc sức khỏe dễ bị tác động bởi thời gian và nhiệt độ(T&T Cargo shipment)
+
+- Sản phẩm chăm sóc sức khỏe là tất cả các sản phẩm thuốc hoặc các chất bao gồm nhưng không giới hạn - nguyên liệu, thành phần hoạt dược chính - Active Pharmaceutical Ingredients(API), tả dược, thiết bị ý tế, các sản phẩm sinh học, huyết tương, nguyên liệu thử nghiệm lâm sàn hoặc bất kỳ một sản phẩm nào được người gửi xác định là sản phẩm chăm sóc sức khỏe, cũng như dễ bị **tác động bởi nhiệt độ** tại thời điểm giao hàng
+- Công tác phục vụ phải tuân thủ theo yêu cầu trong Quy định phục vụ hàng hóa cần kiểm soát nhiệt độ của IATA(IATA Temperature Control Regulations - TCR) và yêu cầu của tiêu chuẩn CEIV - Pharma mà SCSC đang áp dụng
+- <u> **Yêu cầu phục vụ** </u>
+  - Cơ sở hạ tầng, trang thiết bị phải đáp ứng yêu cầu tiêu chuẩn
+  - Tuẩn thủ công tác vệ sinh và kiểm soát thực hiện vệ sinh tại khu vực khai thác, trang thiết bị khai thác, kho lưu trữ
+  - Lưu trữ đúng nhiệt độ yêu cầu trên MAWB
+  - Kiểm soát các chỉ số(KPIs) về thời gian phục vụ, di chuyển, giao nhận
+  - Kiểm soát đảm bảo an ninh
+  - Thực hiện nghiêm túc công tác kiểm tra đánh giá định kỳ, đột xuất
+- Sẽ được huấn luyện chi tiết trong khóa học về Khai thác hàng hóa cần kiểm soát nhiệt độ
+
+### 4.16 Hàng hóa hoặc thư tín có độ rủi ro cao - HRCM
+
+- Các lô hàng có nguồn gốc hoặc chiếp tiếp từ các Quốc gia/ Khu vực do liên minh Châu Âu xác định là có nguy cơ rủi ro cao - Những nước trong danh sách đỏ(Red Contries List)
+- Hàng hóa có dấu hiệu bị xâm phạm, giả mạo, không có thông tin rõ ràng và/ hoặc có bất kỳ hư hại, lỗ thủng của bao bì đóng gói đủ lớn để có thể đưa thêm một vật thể lạ từ ngoài vào bên trong kiện hàng(khoảng 10x3cm) được coi là hàng hóa/ thư tín có độ rủi ro cao(HRCM)
+- <u> **Yêu cầu phục vụ:** </u>Tuẩn thủ tuyệt đối yêu cầu của RA3 và TSA bao gồm nhưng không giới hạn về:
+  - Nhận dạng, xác định HRCM
+  - Đáp ứng các yêu cầu về tiêu chuẩn kỹ thuật, xuất xứ, hiệu chuẩn máy soi chiếu, an ninh hàng hóa
+  - Tuân thủ các quy định, quy trình kiểm tra, soi chiếu, giám sát an ninh hàng hóa chuyên biệt,...
+
+### 4.17 Hàng nguy hiểm(Dangerous Goods)
+
+- Sẽ được huấn luyện trong khóa học về Hàng nguy hiểm theo quy định của IATA
