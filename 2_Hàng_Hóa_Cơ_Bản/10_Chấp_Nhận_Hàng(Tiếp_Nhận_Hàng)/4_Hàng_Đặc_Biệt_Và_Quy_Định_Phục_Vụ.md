@@ -91,30 +91,42 @@
 - Hàng dễ hư hỏng là loại hàng do tính chất và đặc tính của nó đòi hỏi quá trình chất xếp, lưu kho, vận chuyển
   phải tuân thủ các yêu cầu riêng nhằm đảm bảo hàng hóa không bị hư hỏng do tác động của nhiệt độ, độ ẩm
   và thời gian phục vụ
-- Hàng dễ hư hỏng gồm các dạng sau đây:  
-  | Ký hiệu(Code) | Mô tả nội dung |
-  | ------------- | -------------- |
-  | ACT | Hàng được vận chuyển trong thùng(container) có thể thống kiểm soát nhiệt độ - Thùng lạnh chủ động(Active temperature control system) |
-  | COL | Hàng dễ hư hỏng yêu cầu được giữ nhiệt độ mát khi vận chuyển, lưu kho(Cool Goods) |
-  | EAT | Thực phẩm(ngoại trừ thịt, cá, hải sản) |
-  | FRI | Hàng động lạnh qua kiểm dịch thực vật - thú y(Frozen Goods subject to veterinary/ phytosanitary inspection) |
-  | FRO | Hàng đông lạnh(Frozen goods) |
-  | HEG | Trứng hấp(Hatching Eggs) |
-  | LHO | Máu tươi, có quan nội tạng con người(Live Human Organs/Blood) |
-  | PEA | Các sản phẩm bắt nguồn từ động vật được liệt kê trong danh mục của CITES(sản phẩm săn bắn, dã thú...) |
-  | PEF | Thực vật hoa tươi |
-  | PEM | Thịt |
-  | PEP | Rau quả |
-  | PER | Hàng dễ hư hỏng(Nói chung) |
-  | PES | Cá, hải sản tươi |
-  | PIL | Dược phẩm cần kiểm soát nhiệt độ |
+- Hàng dễ hư hỏng gồm các dạng sau đây:
+
+  | Ký hiệu(Code) | Mô tả nội dung                                                                                                                       |
+  | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+  | ACT           | Hàng được vận chuyển trong thùng(container) có thể thống kiểm soát nhiệt độ - Thùng lạnh chủ động(Active temperature control system) |
+  | COL           | Hàng dễ hư hỏng yêu cầu được giữ nhiệt độ mát khi vận chuyển, lưu kho(Cool Goods)                                                    |
+  | EAT           | Thực phẩm(ngoại trừ thịt, cá, hải sản)                                                                                               |
+  | FRI           | Hàng động lạnh qua kiểm dịch thực vật - thú y(Frozen Goods subject to veterinary/ phytosanitary inspection)                          |
+  | FRO           | Hàng đông lạnh(Frozen goods)                                                                                                         |
+  | HEG           | Trứng hấp(Hatching Eggs)                                                                                                             |
+  | LHO           | Máu tươi, có quan nội tạng con người(Live Human Organs/Blood)                                                                        |
+  | PEA           | Các sản phẩm bắt nguồn từ động vật được liệt kê trong danh mục của CITES(sản phẩm săn bắn, dã thú...)                                |
+  | PEF           | Thực vật hoa tươi                                                                                                                    |
+  | PEM           | Thịt                                                                                                                                 |
+  | PEP           | Rau quả                                                                                                                              |
+  | PER           | Hàng dễ hư hỏng(Nói chung)                                                                                                           |
+  | PES           | Cá, hải sản tươi                                                                                                                     |
+  | PIL           | Dược phẩm cần kiểm soát nhiệt độ                                                                                                     |
 
   **Yêu cầu phục vụ:**
 
 - Quá trình chất xếp lưu kho hàng dễ hư hỏng cần tham chiếu bảng chỉ dất chất xếp cách ly
 - Kho hàng phải được dán nhãn "Perishable", "Keep temperature", "Fragile", "This Way Up"
-- Trường hợp phải chất xếp các kiện hàng chồng lên nhau, phải đảm bảo các kiện hàng bên dưới không bị hư hại
-  (tránh chất mâm cao, bé)
+- Trường hợp phải chất xếp các kiện hàng chồng lên nhau, phải đảm bảo các kiện hàng bên dưới không bị hư hại (tránh chất mâm cao, bé)
 - Đối với các kiện hàng có rò rỉ chất lỏng, phải phục vụ như hàng ươt(WET)
 - Không được phủ kín các mâm rau quả bằng tấm nylon(trừ khi người gửi hàng yêu cầu)
 - Khi chất xếp các kiện hàng rau, quả phải đảm bảo khoảng trống lưu thông không khí giữa các kiện hàng
+
+### 4.9 Trứng hấp(Hatching eggs - HEG)
+
+- Yêu cầu phục vụ: Trứng hấp(hatching eggs) là trứng có chứa phôi sống và đang trong quá trình ấp. Do vậy trong quá trình
+  phục vụ chất xếp, lưu kho kiện hàng trứng ấp phải được:
+  - Dán nhãn **Perishable**, **Keep temperature**, **Fragile**
+  - Tham chiếu bảng chỉ dẫn chất xếp cách ly
+  - Không để kiện hàng trức tiếp dưới ánh nắng trực tiếp dưới ánh nắng hoặc nhiệt độ cao
+
+```html
+<img src="./4.9.Hatching_eggs.PNG" alt="hatching egss" />
+```
