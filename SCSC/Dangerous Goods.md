@@ -24,7 +24,7 @@
   - Div 2.2:
     - Khí không dễ cháy, không độc hại - **RNG**
     - Khí hóa lỏng ở nhiệt độ thấp - **RCL**
-    - Khí độc - **RPG**
+  - Div 2.3; Khí độc - **RPG**
 
 - Class 3: Chất lỏng dễ cháy - **RFL**
 
