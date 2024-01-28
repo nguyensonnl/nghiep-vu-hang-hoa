@@ -1,0 +1,12 @@
+- Trên hệ thống hermes các ULD/BULK đang ở trạng thái intect thì chuyển sang trạng thái breakdonw
+
+- Ngoại trừ 2 trường hợp wet và crushed thì các trường hợp còn lại thì phải báo cán bộ trực
+và zoom camera vào hàng bị bất thường
+
+
+- Khai thác hàng: sử dụng handheld
+- Xử lý hàng thường, hàng đặc biệt, hàng nguy hiểm
+- Xử lý hàng bị bất thường
+
+- Sử dụng hệ thống hermes:
+    - Xử lý các vấn đề sau khi khai thác xong: đóng chuyến, xử lý biên bản bất thường gửi cho hãng
